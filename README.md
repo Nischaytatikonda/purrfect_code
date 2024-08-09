@@ -1,6 +1,23 @@
+
 [![Dart](https://github.com/devchallengedemo/purrfect_code/actions/workflows/dart.yml/badge.svg)](https://github.com/devchallengedemo/purrfect_code/actions/workflows/dart.yml)
 
 # Purrfect Code
+
+
+<a href="https://idx.google.com/import?url=https%3A%2F%2Fgithub.com%2FNischaytatikonda%2Fpurrfect_code">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://cdn.idx.dev/btn/try_dark_32.svg">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://cdn.idx.dev/btn/try_light_32.svg">
+    <img
+      height="32"
+      alt="Try in IDX"
+      src="https://cdn.idx.dev/btn/try_purple_32.svg">
+  </picture>
+</a>
 
 A Sokoban Game you play by coding in JavaScript. Made by Google For Developers.
 
